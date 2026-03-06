@@ -2,14 +2,18 @@
 
 Projet personnel visant à implémenter plusieurs algorithmes de machine learning from scratch afin de comprendre profondément les concepts mathématiques et algorithmiques derrière chaque modèle.
 
-## Algorithmes implémentés
+## Algorithmes à implémenter
 
 - Linear Regression
 - Logistic Regression
 - Decision Trees
-- Neural Networks
 - KNN
-- SVM (à venir)
+- SVM
+- Naive Bayes
+- Random forest
+- Grandient boosting
+- K-means (Clustering)
+- Neurale network
 
 ## Objectifs
 
