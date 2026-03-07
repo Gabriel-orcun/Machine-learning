@@ -10,10 +10,10 @@ Projet personnel visant à implémenter plusieurs algorithmes de machine learnin
 - KNN
 - SVM
 - Naive Bayes
-- Random forest
-- Grandient boosting
+- Random Forest
+- Grandient Boosting
 - K-means (Clustering)
-- Neurale network
+- Neurale Network
 
 ## Objectifs
 
